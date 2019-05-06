@@ -1,0 +1,15 @@
+xcuserdata
+DerivedData
+.DS_Store
+Reveal.framework
+svn
+RevealServer.framework
+xcshareddata
+.idea/
+*.xccheckout
+*/build/*
+*.hmap
+*.xcworkspace
+!default.xcworkspace
+Pods
+
